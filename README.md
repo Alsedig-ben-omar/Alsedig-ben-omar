@@ -43,7 +43,7 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
 
 <p>
   <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=aiko-chan-ai&theme=dracula&show_icons=true"/>
+  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=alsedig-ben-omar&theme=dracula&show_icons=true"/>
   </a>
 </p>
 
