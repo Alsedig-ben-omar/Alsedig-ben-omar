@@ -47,4 +47,8 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
   </a>
 </p>
 
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ## Thanks for reading!
