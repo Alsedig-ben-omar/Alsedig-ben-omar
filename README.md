@@ -7,7 +7,7 @@
 ### A little more about me...  
 
 ```javascript
-const ꜱᴄʏᴛʜᴇʀᴍᴀɴᴇ = {
+const Alsedig = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C++],
   tools: [Node, Figma]
